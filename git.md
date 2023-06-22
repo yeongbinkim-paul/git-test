@@ -22,6 +22,9 @@ git checkout branch #switch head branch
 git branch -d branch #delete a local branch
 git branch -m <name> #rename current branch
 ```
+# remove modification
+git restore <file/directory path>
+gir restore .
 # add file/directory
 ```
 git add <file/directory path>
